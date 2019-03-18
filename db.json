@@ -1,7 +1,7 @@
-{[
+{
 "nama" : "rizki nur safitri",
 "kelas" : "D3TI03",
-"alamat" : {
+"alamat" :  [{
 "desa" : "grogol",
 "kecamatan" : "weru",
 "kabupaten" : "sukoharjo",
