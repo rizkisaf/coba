@@ -1,12 +1,7 @@
 {
 "nama" : "rizki nur safitri",
 "kelas" : "D3TI03",
-"alamat" : {
-"desa" : "grogol",
-"kecamatan" : "weru",
-"kabupaten" : "sukoharjo",
-"provinsi" : "jawa tengah"
-},
+"alamat" : "grogol,weru,sukoharjo",
 "sosial media" : [
 {
 "nama" : "instagram",
