@@ -1,4 +1,4 @@
-{
+{[
 "nama" : "rizki nur safitri",
 "kelas" : "D3TI03",
 "alamat" : {
@@ -6,7 +6,7 @@
 "kecamatan" : "weru",
 "kabupaten" : "sukoharjo",
 "provinsi" : "jawa tengah"
-},
+]},
 "sosial media" : [
 {
 "nama" : "instagram",
