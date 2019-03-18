@@ -1,16 +1,16 @@
-{
-"nama" : "rizki nur safitri",
-"kelas" : "D3TI03",
-"alamat" : "grogol,weru,sukoharjo",
-"sosial media" : [
-{
-"nama" : "instagram",
-"url" : "https://www.instagram.com/rizkisaf"
-},
-{
-"nama" : "facebook",
-"url" : "https://www.facebook.com/riski safitri"
+{ 
+  "user" : [{
+    "nama" : "rizki nur safitri",
+    "kelas" : "D3TI03",
+    "alamat" : "grogol,weru,sukoharjo"
+  }],
+  "sosialmedia" : [
+    { "sosialmedia" : "instagram",
+      "url"         : "https://www.istagram.com/rizkisaf"
+    },
+    { "sosialmedia" : "facebook",
+      "url"         : "https://www.facebook.com/rizkisaf"
+    }
+    ]
 }
-]
-}
-
+            
